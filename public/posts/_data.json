@@ -1,5 +1,12 @@
 {
   "posts":{
+    "resumen-devops-meetup-1": {
+      "title": "Resumen DevOps CR #1",
+      "author": "laubits",
+      "backgroundImage": "/assets/images/meetup-1.png"
+
+    }
+
 
   },
   "authors":{
@@ -25,6 +32,13 @@
       "twitter": "jeffesquivels",
       "github": "jeffesquivels",
       "avatar": "https://pbs.twimg.com/profile_images/609759111727611904/5GaJ5qOD_400x400.jpg"
+    },
+    "laubits":{
+      "name": "Laura Castillo",
+      "bio": "Web Developer. Organizadora de Costa RicaJS",
+      "twitter": "laubits",
+      "github": "laubits",
+      "avatar": "https://avatars3.githubusercontent.com/u/11317931?v=3&u=7cbafcc0582b9aa70e10d963f005e9a34096ec19&s=140"
     }
   }
 }
